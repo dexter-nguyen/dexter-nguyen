@@ -1,6 +1,6 @@
 # Hi There, I'm Tran Nguyen
 
-🔭 I’m currently working on a react project
+🔭 I’m currently looking for an internship
 
 🌱 I’m currently a student at Cal Poly Pomona
 
